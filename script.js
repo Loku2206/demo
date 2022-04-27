@@ -29,3 +29,5 @@ function fadeOut() {
 }
 
 window.onload = fadeOut();
+
+console.log("hello")
